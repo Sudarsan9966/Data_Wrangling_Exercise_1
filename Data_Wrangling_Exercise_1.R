@@ -1,3 +1,6 @@
+# Clean up data set showing product purchases from an electronics store.
+# Author: Jason Wu
+
 library(tidyr)
 library(dplyr)
 
